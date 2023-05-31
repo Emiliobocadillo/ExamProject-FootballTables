@@ -1,0 +1,12 @@
+FC Midtjylland,11,	9,	0,	2,	21,	5,	16,	27
+FC Copenhagen,11,	7,	3,	1,	25,	8,	17,	24
+Aalborg BK,11,	6,	3,	2,	18,   	9,	9,	21
+Randers FC,11,	5,	3,	3,	14,	12,	2,	18
+Silkeborg IF,11,	4,	5,	2,	16,	12,	4,	17
+Odense Boldklub,11,	3,	5,	3,	18,	16,	2,	14
+FC Nordsjae,11,	4,	1,	6,	15,	20,	-5,	13
+Bröndby IF,11,	2,	6,	3,	14,	15,	-1,	12
+Aarhus GF,11,	3,	3,	5,	9,	16,	-7,	12
+Viborg FF,11,	2,	5,	4,	14,	18,	-4,	11
+SönderjyskE,11,	2,	2,	7,	5,	16,	-11,	8
+Vejle Boldklub,11,	0,	2,	9,	7,	29,	-22,	2

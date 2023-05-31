@@ -1,0 +1,15 @@
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\bin\Debug\net7.0\ExamProject-FootballTables.exe
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\bin\Debug\net7.0\ExamProject-FootballTables.deps.json
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\bin\Debug\net7.0\ExamProject-FootballTables.runtimeconfig.json
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\bin\Debug\net7.0\ExamProject-FootballTables.dll
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\bin\Debug\net7.0\ExamProject-FootballTables.pdb
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\obj\Debug\net7.0\ExamProject-FootballTables.csproj.AssemblyReference.cache
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\obj\Debug\net7.0\ExamProject-FootballTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\obj\Debug\net7.0\ExamProject-FootballTables.AssemblyInfoInputs.cache
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\obj\Debug\net7.0\ExamProject-FootballTables.AssemblyInfo.cs
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\obj\Debug\net7.0\ExamProject-FootballTables.csproj.CoreCompileInputs.cache
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\obj\Debug\net7.0\ExamProject-FootballTables.dll
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\obj\Debug\net7.0\refint\ExamProject-FootballTables.dll
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\obj\Debug\net7.0\ExamProject-FootballTables.pdb
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\obj\Debug\net7.0\ExamProject-FootballTables.genruntimeconfig.cache
+C:\Emil\Computer Science\4th semester\C#\ExamProject-FootballTables\ExamProject-FootballTables\obj\Debug\net7.0\ref\ExamProject-FootballTables.dll
